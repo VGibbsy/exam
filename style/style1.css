@@ -1,0 +1,299 @@
+body
+{
+	margin-top :0px;
+	margin-left :0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #434367;
+	// BACKGROUND-COLOR: #FBEDBF;
+	background: linear-gradient(29deg, #1884d9, #96c4e8);
+    background-size: 400% 400%;
+    -webkit-animation: AnimationName 20s ease infinite;
+    -moz-animation: AnimationName 20s ease infinite;
+    animation: AnimationName 20s ease infinite;
+
+    
+}
+
+A:link
+{    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color:  blue;
+}
+
+A:visited
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color: blue;
+}
+
+A:active
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: underline;
+	BACKGROUND: none;
+    color: blue;
+}
+
+A:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: underline ;
+    
+	BACKGROUND: none;
+    color: maroon;
+}
+
+td
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.td_top
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color:white;
+	// background: linear-gradient(90deg, rgba(182,21,39,1) 0%, rgba(209,162,167,1) 53%, rgba(182,21,39,1) 100%); 
+    height:70px;
+    // BORDER-BOTTOM: orange 4px solid; 
+    // BORDER-TOP: orange  4px solid; 
+    
+}
+.td_copyright
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: white;
+    // background: gold;
+    height:50px;
+    border-top-style: groove;
+	border-top-color: #717178;
+    
+    
+}
+
+.td_topvav
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    background: #F7DF80;
+    height:20px;
+    BORDER-BOTTOM: maroon 2px double; 
+    
+    
+}
+
+.td_tablehead
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    background: #FF9900;
+    height:20px;
+    align:center;
+    
+    
+}
+
+.td_tablecap
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    background: #FFCC66;
+    height:20px;
+    BORDER-BOTTOM: #006666 1px solid; 
+    text-align:left;
+    
+}
+
+.td_tablecap1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    
+    height:20px;
+    BORDER-BOTTOM: #006666 1px solid; 
+    text-align:left;
+    
+}
+
+.TextBoxStyle
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    background: #FCF2C;
+    BORDER-BOTTOM: gold 1px solid; 
+    BORDER-TOP: gold  1px solid;
+    BORDER-LEFT: gold  1px solid;
+    BORDER-RIGHT: gold  1px solid;
+    height:22px; 
+}
+.TextBoxArea
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    background: #FCF2C;
+    BORDER-BOTTOM: gold 1px solid; 
+    BORDER-TOP: gold 1px solid;
+    BORDER-LEFT: gold 1px solid;
+    BORDER-RIGHT: gold 12px solid;
+    
+}
+
+.ButtonStyle
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: maroon 1px double; 
+    BORDER-TOP: maroon  1px double;
+    BORDER-LEFT: maroon  1px double;
+    BORDER-RIGHT: maroon  1px double; 
+    height:24px; 
+
+}
+
+.Errortext
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: red;
+    
+}
+  @-webkit-keyframes AnimationName {
+    0%{background-position:0% 65%}
+    50%{background-position:100% 36%}
+    100%{background-position:0% 65%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 65%}
+    50%{background-position:100% 36%}
+    100%{background-position:0% 65%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 65%}
+    50%{background-position:100% 36%}
+    100%{background-position:0% 65%}
+}
+#table11 td{     color: black;   }
+
+.td_topvav table {       background: gray;     }     
+.td_topvav td {       color: black;     }
+
+#table11, #table12 { border: 3px groove #fff!important;}
